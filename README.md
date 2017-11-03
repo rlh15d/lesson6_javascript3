@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 03, 2017
 
 ### Student Name:  
-(First and Last Name)
+Rachel Hrenko
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assingment, we learned how the HTML DOM is used to edit the elements of the HTML code. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://rlh15d.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that the statement "var lastFigure = document.createElement("figure");" creates a new figure element and assign it to the variable name lastFigure.
+2. I learned that the "addEventListener()" function attaches the event handler to the specified element, and when clicked the event handler function is executed.
+3. I learned that the use of the "appendChild()" method is to add the document fragment to the DOM tree for the document, as a child of the article element.
